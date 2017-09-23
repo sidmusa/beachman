@@ -1,4 +1,6 @@
 ---
+pages:
+- post/fox.md
 hide_body: false
 fields:
 - name: date
